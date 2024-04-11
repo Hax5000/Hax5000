@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Max</a></h1>
+<h1 align="center">✨Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Max⚡</a></h1>
 
 <!--
 **Hax5000/Hax5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
