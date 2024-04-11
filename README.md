@@ -10,6 +10,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VS2022" alt="VS2022" width="40" height="40"/>&nbsp;
 </div>
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hax5000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hax5000/Hax5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
